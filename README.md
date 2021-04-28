@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Samya Jain, pursuing my B.TECH in CSAI. I am a very enthusiastic and curious person and find myself exploring new technologies! 
+I am Samya Jain, pursuing my B.TECH in CSAI. I am a very enthusiastic and curious person and find myself exploring new technologies!
+
+Connect with me on-- [Linkedin](https://www.linkedin.com/in/samya-jain-a68443204/) :)

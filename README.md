@@ -28,7 +28,7 @@
 ---
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> My Github Stats:
 ![Samya's github stats](https://github-readme-stats.vercel.app/api?username=samya02&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samya02&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samya02&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/samya02/github-readme-stats)
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samya02&theme=dark)](https://git.io/streak-stats) -->
 
 

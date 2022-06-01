@@ -1,12 +1,12 @@
 
-# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Samya Jain
+# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height = "29px"> I'm Samya Jain
  
 <!-- <p align="center">
 <a href="https://in.linkedin.com/in/samya-jain-a68443204" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="samyajain" height="30" width="30" /></a>&nbsp;
 <a href="mail to:samyajain17@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="samya17" height="40" width="30" /></a>&nbsp;
 </p> -->
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="29px" height = "29px"> About Me:
 - 📝 I am a very enthusiastic and curious person and find myself exploring new technologies and domains.
 - 🏦 I have a keen interest in the domains of web development and Machine learning.
 - 💻 I code in C++ and python. 
@@ -27,7 +27,7 @@
 </p>
 
 ---
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> My Github Stats:
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="29px" height = "29px"> My Github Stats:
 
 ![Samya's github stats](https://github-readme-stats.vercel.app/api?username=samya02&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samya02&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/samya02/github-readme-stats)

@@ -33,7 +33,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samya02&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/samya02/github-readme-stats)
 <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=samya02&theme=dark&hide_border=false" /> <br>
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samya02&theme=dark)](https://git.io/streak-stats) -->
-
+![](https://komarev.com/ghpvc/?username=samya02&color=blue)
 
 <h3 align="center">Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px"></h3>
 <p align="center">
@@ -41,6 +41,8 @@
 	<a href="https://in.linkedin.com/in/samya-jain-a68443204"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 	<a href="mailto:samyajain17@gmail.com"><img alt="gmail" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/gmail.png"/></a>
 </p>
+
+
 
 
 <!-- ### Hi there 👋

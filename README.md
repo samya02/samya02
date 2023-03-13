@@ -31,7 +31,7 @@
 
 ![Samya's github stats](https://github-readme-stats.vercel.app/api?username=samya02&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samya02&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/samya02/github-readme-stats)
-<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=samya02&theme=dark&hide_border=false" /> <br>
+<!-- <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=samya02&theme=dark&hide_border=false" /> <br> -->
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samya02&theme=dark)](https://git.io/streak-stats) -->
 ![](https://komarev.com/ghpvc/?username=samya02&color=blue)
 
